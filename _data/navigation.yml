@@ -1,0 +1,9 @@
+links:
+- title: 文字
+  url: /
+- title: 关于
+  url: https://leapnebula.com
+- title: 搜索
+  url: /search
+- title: Rss
+  url: /atom.xml
