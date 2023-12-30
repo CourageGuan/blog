@@ -1,9 +1,9 @@
 links:
-- title: 文字
+- title: Writing
   url: /
-- title: 关于
-  url: https://leapnebula.com
-- title: 搜索
+- title: About
+  url: https://courageguan.com
+- title: Search
   url: /search
 - title: Rss
   url: /atom.xml
